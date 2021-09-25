@@ -1,10 +1,10 @@
-### Hello World, I'm Renato Lopes
+### Olá, Mundo! , sou Renato Lopes
 
 -----
-####  
+####  Sou graduado em Licenciatura em Informática pela UEA/ Itacoatiara, também possuo qualificação técnica em Informática, atualmente tenho Especialização em Informática na Educação pelo IFAM e Especialização em Tecnologias para Desenvolvimento Web pela UNOPAR , me volto sempre em aprender mais, pois sou apaixonado pelas tecnologias da Informação e Comunicação (TICs) para com o pouco conhecimento que tenho contribuir com a nossa Educação.
 
-### My skills :woman_technologist:
-- **Competitive Coding**
+### Minhas skills:
+
 <table>
 <tbody>
  <tr>
