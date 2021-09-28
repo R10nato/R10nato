@@ -5,7 +5,7 @@
 
 
 - 👨‍💻 Atualmente estou estudando e desenvolvendo aplicações Web, utilizando HTML5, CSS, JavaScript, Python, Django e etc. 
-- 📚 Atualmente estou trabalhando em meu Portfólio on-line para mostrar minhas habilidades e projetos.
+- 📚 E trabalhando em meu Portfólio on-line para mostrar minhas habilidades e projetos.
 -
 
 ### Minhas skills:
