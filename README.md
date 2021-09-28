@@ -67,8 +67,8 @@
 </table>
 
 - **Ciência de Dados**
-  - Data Visualization
-  - Data Analysis
+  - Visualização de dados
+  - Análise de dados
  <table>
 <tbody>
  <tr>
@@ -76,17 +76,11 @@
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
 
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
-</td>
 </tr>
 </tbody>
 </table>
 
-### I'm currently learning :open_book:
-- **Competitive Coding**
-    - Dynamic Programming
-    
+   
 - **Web Development**
 <table>
 <tbody>
