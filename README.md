@@ -66,6 +66,8 @@
 </tbody>
 </table>
 
+###Estou me dedicando em Apreder:
+
 - **Ciência de Dados**
   - Visualização de dados
   - Análise de dados
@@ -85,9 +87,6 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
-</td>
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
