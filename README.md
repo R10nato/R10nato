@@ -1,7 +1,7 @@
 ### Olá, Mundo! , sou Renato Lopes
 
 -----
-####  Sou graduado em Licenciatura em Informática pela UEA/ Itacoatiara, também possuo qualificação técnica em Informática, atualmente tenho Especialização em Informática na Educação pelo IFAM e Especialização em Tecnologias para Desenvolvimento Web pela UNOPAR , me volto sempre em aprender mais, pois sou apaixonado pelas tecnologias da Informação e Comunicação (TICs) para com o pouco conhecimento que tenho contribuir com a nossa Educação.
+####  Sou graduado em Licenciatura em Informática pela UEA/ Itacoatiara, também possuo qualificação técnica em Informática, atualmente tenho Especialização em Informática na Educação pelo IFAM e Especialização em Tecnologias para Desenvolvimento Web pela UNOPAR , me volto sempre em aprender mais, pois sou apaixonado pelas tecnologias da Informação e Comunicação (TICs) , dessa forma com o pouco conhecimento assim possa contribuir com a nossa Educação.
 
 
 - 👨‍💻 Atualmente estou estudando e desenvolvendo aplicações Web, utilizando HTML5, CSS, JavaScript, Python, Django e etc. 
