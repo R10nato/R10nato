@@ -6,7 +6,7 @@
 
 - 👨‍💻 Atualmente estou estudando e desenvolvendo aplicações Web, utilizando HTML5, CSS, JavaScript, Python, Django e etc. 
 - 📚 E trabalhando em meu Portfólio on-line para mostrar minhas habilidades e projetos.
-- 📚 EStudante de Pós-Graduação do IARTES - Inteligencia Artificial Aplicada a Engenharia de Tetes de Software
+- 📚 Estudante de Pós-Graduação do IARTES - Inteligencia Artificial Aplicada a Engenharia de Testes de Software
 
 ### Minhas skills:
 
