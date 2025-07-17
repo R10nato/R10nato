@@ -1,5 +1,6 @@
 <h1 align="center">Olá, Mundo! 👋</h1>
 <h3 align="center">Sou Renato Lopes</h3>
+<h4 align="center">Analista de Suporte TI e Analista de Redes</h4>
 
 ---
 
@@ -7,8 +8,8 @@
 Sou graduado em **Licenciatura em Informática pela UEA (Itacoatiara)**, com formação técnica em Informática.  
 Tenho **duas pós-graduações**:
 - Especialização em Informática na Educação (IFAM)
-- Especialização em Tecnologias para Desenvolvimento Web (UNOPAR)  
-Atualmente, sou **pós-graduando em Inteligência Artificial Aplicada à Engenharia de Testes de Software (IARTES)**.
+- Especialização em Tecnologias para Desenvolvimento Web (UNOPAR)
+- Especialização em Inteligência Artificial Aplicada à Engenharia de Testes de Software (IARTES).
 
 Sou apaixonado por **Tecnologias da Informação e Comunicação (TICs)** e estou sempre buscando aprender mais para contribuir com a educação e o avanço tecnológico.
 
