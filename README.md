@@ -6,7 +6,7 @@
 
 🎓 **Formação Acadêmica**  
 Sou graduado em **Licenciatura em Informática pela UEA (Itacoatiara)**, com formação técnica em Informática.  
-Tenho **duas pós-graduações**:
+Tenho **três pós-graduações**:
 - Especialização em Informática na Educação (IFAM)
 - Especialização em Tecnologias para Desenvolvimento Web (UNOPAR)
 - Especialização em Inteligência Artificial Aplicada à Engenharia de Testes de Software (IARTES).
