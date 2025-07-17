@@ -16,6 +16,7 @@ Sou apaixonado por **Tecnologias da Informação e Comunicação (TICs)** e esto
 ---
 
 ### 🚀 Em que estou trabalhando atualmente:
+- Monitoramento e Inventario de TI - desenvolvendo meu Próprio Agent de coleta de informações autonomas.
 - Desenvolvendo aplicações Web com **HTML5, CSS, JavaScript, Python e Django**.
 - Criando meu **portfólio on-line** para exibir meus projetos e habilidades.
 
