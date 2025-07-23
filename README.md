@@ -1,6 +1,7 @@
 <h1 align="center">Olá, Mundo! 👋</h1>
 <h3 align="center">Sou Renato Lopes</h3>
-<h4 align="center">Analista de Suporte TI e Analista de Redes</h4>
+<h4 align="center">Analista de Infraestrutura e Redes</h4>
+<h4 align="center">Desenvolvedor Python</h4>
 
 ---
 
